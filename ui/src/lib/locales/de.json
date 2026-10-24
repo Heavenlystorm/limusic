@@ -20,7 +20,8 @@
 		"playlist_partial": "{added} zu „{playlist}“ hinzugefügt; {duplicates} bereits vorhanden; {remaining} unbestätigt. {error}",
 		"remove": "Aus dieser Playlist entfernen",
 		"remove_confirm": "{count} Titel entfernen?",
-		"playlists_partial": "Zu {done} von {total} Playlists hinzugefügt. {error}"
+		"playlists_partial": "Zu {done} von {total} Playlists hinzugefügt. {error}",
+		"play_on_repeat": "Nur diese in Dauerschleife wiedergeben"
 	},
 	"common": {
 		"loading": "Wird geladen…",
@@ -179,7 +180,8 @@
 		"video": "Video",
 		"fullscreen_video": "Vollbild-Video",
 		"exit_fullscreen_video": "Vollbild beenden",
-		"up_next": "Als nächstes"
+		"up_next": "Als nächstes",
+		"scroll_to_end": "Zum Ende scrollen"
 	},
 	"home": {
 		"good_morning": "Guten Morgen",
@@ -228,7 +230,8 @@
 			"new_releases": "Neuerscheinungen",
 			"mixed_for_you": "Für dich zusammengestellt",
 			"daily_discover": "Tägliche Vorschläge",
-			"music_videos": "Musikvideos für dich"
+			"music_videos": "Musikvideos für dich",
+			"featured_playlists": "Für dich vorgeschlagene Playlists"
 		}
 	},
 	"history": {
@@ -313,7 +316,8 @@
 		"suggestion_added": "Hinzugefügt",
 		"suggestions_hide": "Ausblenden",
 		"suggestions_show": "Zeigen",
-		"saved_in_count": "{count} Playlists"
+		"saved_in_count": "{count} Playlists",
+		"suggestions_hidden": "Vorschläge werden verborgen. Zeige sie vom Ende einer deiner Playlists wieder an."
 	},
 	"local": {
 		"scanning": "Ordner wird durchsucht…",
@@ -1235,7 +1239,11 @@
 		"clear_title": "Hörverlauf wirklich löschen?",
 		"clear_desc": "Dies löscht jede Wiedergabe, die auf diesem Gerät gezählt wurde, deine Statistik setzt sich zurück und \"Auf Dauerschleife\" setzt sich zurück. Dein YouTube Music Verlauf bleibt unberührt.",
 		"clear_confirm": "Verlauf löschen",
-		"cleared": "Hörverlauf gelöscht"
+		"cleared": "Hörverlauf gelöscht",
+		"busiest_day": "aktivster Tag",
+		"busiest_month": "Aktivster Monat",
+		"busiest_weekday": "Aktivster Wochentag",
+		"busiest_hour": "Aktivste Stunde"
 	},
 	"comments": {
 		"title": "Kommentare",
