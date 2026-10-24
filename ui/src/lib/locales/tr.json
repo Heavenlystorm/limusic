@@ -283,7 +283,8 @@
 		"suggestion_add": "{title} parçasını bu çalma listesine ekle",
 		"saved_in_count": "{count} çalma listesi",
 		"suggestions_hide": "Gizle",
-		"suggestions_show": "Göster"
+		"suggestions_show": "Göster",
+		"suggestions_hidden": "Öneriler gizlendi. Herhangi bir çalma listesinin son kısmında önerileri tekrar görüntüleyebilirsiniz."
 	},
 	"local": {
 		"scanning": "Klasör taranıyor...",
@@ -424,11 +425,13 @@
 			"accent_artwork_note": "Bir şarkı çalarken vurgu, şarkının kapak resminden gelir. Bunu görmek için “Kapağa göre renkleri ayarla” seçeneğini kapatın.",
 			"preview_hint": "Sürüklerken kaydırma çubukları ve renk seçici burada görünür; parmağınızı bıraktığınızda uygulama buna uyum sağlar.",
 			"matugen": "Matugen",
-			"matugen_hint": "Matugen'in duvar kağıdınızdan oluşturduğu paletten, vurgu renkleri de dahil olmak üzere tüm renkleri alın. Öncelikle Matugen'de Limusic şablonunu ayarlayın.",
+			"matugen_hint": "Matugen'in duvar kağıdınızdan oluşturduğu paletten, vurgu renkleri de dahil olmak üzere tüm renkleri alır. Öncelikle Matugen'de Limusic şablonunu ayarlayın.",
 			"blur_playlist_header_hint": "Bir çalma listesinin kapak resmini, başlığının arkasında bulanık bir şekilde göster. Tam genişlikte pikselli görünen kapak resimlerini yumuşatır.",
 			"classic_player": "Klasik oynatıcı düzeni",
 			"blur_playlist_header": "Oynatma listesi başlıklarını bulanıklaştır",
-			"classic_player_hint": "Orijinal oynatıcı görünümü: Kapak resminin bulanık bir kopyası üzerinde sadece albüm kapağı resminin yer aldığı, şarkı bilgilerinin ise oynatıcı çubuğunda gösterildiği görünüm. Kapalıyken yeni düzen kullanılır; bu düzende albüm kapağı resminin altında şarkı adı, sanatçı ve albüm adı yer alır ve görünüm, kapak resminin renkleriyle aydınlatılır."
+			"classic_player_hint": "Orijinal oynatıcı görünümü: Kapak resminin bulanık bir kopyası üzerinde sadece albüm kapağı resminin yer aldığı, şarkı bilgilerinin ise oynatıcı çubuğunda gösterildiği görünüm. Kapalıyken yeni düzen kullanılır; bu düzende albüm kapağı resminin altında şarkı adı, sanatçı ve albüm adı yer alır ve görünüm, kapak resminin renkleriyle aydınlatılır.",
+			"now_playing_pill": "Şu an çalıyor düğmesi",
+			"now_playing_pill_hint": "Bir çalma listesinde veya kuyrukta, çalınan şarkı ekranın dışına kaydırıldığında, o şarkıya geri dönmek için bir düğme gösterilir."
 		},
 		"playback": {
 			"audio_quality": "Ses kalitesi",
@@ -1256,7 +1259,7 @@
 		"monthly_average": "Aylık ortalama",
 		"dayparts": {
 			"morning": "Sabah",
-			"afternoon": "Öğleden sonra",
+			"afternoon": "Öğle",
 			"evening": "Akşam",
 			"night": "Gece"
 		},
