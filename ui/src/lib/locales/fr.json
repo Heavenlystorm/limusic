@@ -1032,10 +1032,10 @@
 		"signed_out": "Connectez-vous pour consulter votre historique d'écoute YouTube Music."
 	},
 	"selection": {
-		"actions": "Actions sur les titres sélectionnés",
-		"count": "{count} sélectionnés",
-		"selected": "Sélectionnés",
-		"not_selected": "Non sélectionnés",
+		"actions": "Actions sur les pistes sélectionnées",
+		"count": "{count} sélectionné(s)",
+		"selected": "Sélectionné",
+		"not_selected": "Non sélectionné",
 		"hidden": "{count} masqués",
 		"enter": "Sélectionner les pistes",
 		"exit": "Quitter le mode sélection",
@@ -1051,7 +1051,7 @@
 		"playlist_partial": "{added} ajoutés à {playlist} ; {duplicates} déjà présents ; {remaining} non confirmés. {error}",
 		"account_changed": "L'ajout de titres a été interrompu suite à un changement de compte.",
 		"remove": "Retirer de cette playlist",
-		"remove_confirm": "Retirer {count} éléments ?",
+		"remove_confirm": "Retirer {count} piste(s) ?",
 		"playlists_partial": "Ajouté à {done} sur {total} playlists. {error}",
 		"play_on_repeat": "Jouer uniquement celles-ci, en boucle"
 	},
