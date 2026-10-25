@@ -204,7 +204,10 @@
 		"pin_to_top": "Kinnita üles",
 		"unpin": "Eemalda kinnitus",
 		"comments": "Kommentaarid",
-		"up_next": "Järgmisena esitamisel"
+		"up_next": "Järgmisena esitamisel",
+		"fullscreen_video": "Täisekraanivaates video",
+		"exit_fullscreen_video": "Välju täisekraanivaates videost",
+		"scroll_to_end": "Keri alumise ääreni"
 	},
 	"home": {
 		"good_morning": "Tere hommikust",
@@ -337,7 +340,10 @@
 		"suggestions_failed": "Soovituste laadimine ebaõnnestus.",
 		"suggestion_add": "Lisa {title} sellesse esitusloendisse",
 		"suggestion_added": "Lisatud",
-		"saved_in_count": "{count} esitusloendit"
+		"saved_in_count": "{count} esitusloendit",
+		"suggestions_hide": "Peida",
+		"suggestions_show": "Näita",
+		"suggestions_hidden": "Soovitused on peidetud. Saad neid uuesti kuvada iga oma esitusloendi lõppedes."
 	},
 	"local": {
 		"scanning": "Kausta skannimine...",
@@ -424,7 +430,9 @@
 			"stream_clients": "Voo kliendid",
 			"stream_clients_hint": "Lülita klient välja, et see voogude leidmisel vahele jätta. Keskkonnamuutuja {var} kirjutab selle üle.",
 			"track_notifications_focused": "Ka Limusicu kasutamisel",
-			"track_notifications_focused_hint": "Näita teavitust ka siis, kui järgmine lugu hakkab automaatselt mängima ja Limusic on aktiivne aken. Ise valitud lugude puhul teavitust ei näidata."
+			"track_notifications_focused_hint": "Näita teavitust ka siis, kui järgmine lugu hakkab automaatselt mängima ja Limusic on aktiivne aken. Ise valitud lugude puhul teavitust ei näidata.",
+			"play_on_start": "Jätka avamisel esitust",
+			"play_on_start_hint": "Limusicu avamisel jätkub esitus sellest esitusjärjekorrast, kus ta eelmine kord lõppes."
 		},
 		"themes": {
 			"interface_font": "Kasutajaliidese kirjatüüp",
@@ -480,7 +488,9 @@
 			"matugen": "Matugen",
 			"matugen_hint": "Võta kõik värvid, sealhulgas aktsentvärvid, paletist, mille Matugen sinu taustapildist koostab. Seadista esmalt Matugenis Limusicu mall.",
 			"classic_player": "Pleieri klassikaline paigutus",
-			"classic_player_hint": "Esialgne pleierivaade: ainult albumi kaanepilt hägustatud kaanepildi taustal, kusjuures loo andmed on paigutatud esitusvaate ribale. Väljalülitamisel on kasutusel uus paigutus, kus pealkiri, esitaja ja album on kujunduse all ning vaade on valgustatud kaanepildi värvidega."
+			"classic_player_hint": "Esialgne pleierivaade: ainult albumi kaanepilt hägustatud kaanepildi taustal, kusjuures loo andmed on paigutatud esitusvaate ribale. Väljalülitamisel on kasutusel uus paigutus, kus pealkiri, esitaja ja album on kujunduse all ning vaade on valgustatud kaanepildi värvidega.",
+			"now_playing_pill": "Nupp „Hetkel esitamisel“",
+			"now_playing_pill_hint": "Näita nuppu, mis võimaldab tagasi pöörduda hetkel esitamisel loo juurde. Näiteks siis, kui oled esitusloendis või -järjekorras kerinud mõnda muude kohta."
 		},
 		"playback": {
 			"audio_quality": "Helikvaliteet",
